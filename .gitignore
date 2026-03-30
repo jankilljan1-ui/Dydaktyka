@@ -1,0 +1,25 @@
+# Gotowe arkusze (docx) - duże pliki, prywatne
+ArkuszeAI/*.docx
+
+# Teksty lektur - prawa autorskie (pełne i fragmenty)
+Lektury/
+
+# Arkusze referencyjne (PDFs egzaminacyjne) - prawa autorskie CKE
+Arkusze_Referencyjne/
+
+# Kosz
+Kosz/
+
+# Informator E8 (PDF CKE) - prawa autorskie
+E8_Dokumentacja/Informator_E8/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Środowisko Python
+.venv/
+venv/
+*.env

@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'; echo '⚡ ArkuszaAI — Proces budowy kart pracy'; echo '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'; echo ''; echo 'Główna funkcja:'; echo '  1. Wybierz fragment z lektury'; echo '  2. Utwórz 7-8 pytań (wzorując się na szablonach S1-S5)'; echo '  3. Wyświetl do akceptacji'; echo '  4. Po zaakceptowaniu: generuj dokument docx'; echo '  5. Zapisz w D:\\Dydaktyka\\ArkuszeAI'; echo ''; echo 'Pamiętaj: Bank pytań = SZABLON INSPIRACJI, nie źródło do cytowania'; echo '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'; echo ''"
+          }
+        ]
+      }
+    ]
+  }
+}

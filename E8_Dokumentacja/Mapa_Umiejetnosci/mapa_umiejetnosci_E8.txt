@@ -1,0 +1,165 @@
+MAPA UMIEJĘTNOŚCI — GENERATOR ARKUSZY E8
+=============================================
+
+5 SZABLONÓW (KART PRACY)
+=========================
+
+SZABLON 1: TEKST LITERACKI + PYTANIA
+-------------------------------------
+Wejście: fragment lektury (tekst lub ścieżka do pliku)
+Wyjście: karta pracy z pytaniami
+
+Struktura pytań (wzorowana na arkuszu Balladyny):
+- Prawda/Fałsz (0-1 pkt) — rozumienie dosłowne
+- Wybór wielokrotny (0-1 pkt) — rozumienie szczegółowe
+- Wyjaśnienie cytatu (0-1 pkt) — interpretacja
+- Środek stylistyczny + funkcja (0-2 pkt) — analiza językowa
+- Cechy charakteru + uzasadnienie (0-2 pkt) — charakterystyka
+- 
+- Pytanie z całości lektury lub porządkowanie wydarzeń chronologicznie (0-2 pkt) — wiedza kontekstowa
+
+Potrzebne dane: tekst fragmentu, tytuł lektury, klasa docelowa
+
+
+SZABLON 2: GRAFIKA/PLAKAT + PYTANIA
+-------------------------------------
+Wejście: obraz (plakat, okładka, kadr, malarstwo) + kontekst lektury
+Wyjście: karta pracy z pytaniami do elementów wizualnych
+
+Struktura pytań:
+- Wskaż elementy graficzne i wyjaśnij ich sens w kontekście utworu (0-2 pkt)
+- Które zdjęcie/obraz odnosi się do sceny X? Uzasadnij (0-2 pkt)
+- Zaprojektuj własny plakat/okładkę — opisz słownie (0-2 pkt)
+
+Potrzebne dane: obraz, powiązana lektura
+
+
+SZABLON 3: TEKST NIELITERACKI + PYTANIA (W TYM GRAMATYCZNE)
+-------------------------------------------------------------
+Wejście: tekst popularnonaukowy, publicystyczny lub informacyjny
+Wyjście: karta pracy z pytaniami rozumienia + gramatyki
+
+Struktura pytań:
+- Streszczenie tekstu — uzupełnij zdania (0-2 pkt)
+- Wielokrotny wybór — rozumienie akapitu (0-1 pkt)
+- Prawda/Fałsz — ocena stwierdzeń (0-1 pkt)
+- Odwołanie do lektury obowiązkowej (0-2 pkt)
+- Interpunkcja — wskaż błąd (0-1 pkt)
+- Składnia — zdanie współrzędnie/podrzędnie złożone (0-1 pkt)
+- Gramatyka — przysłówek/przymiotnik/stopniowanie (0-1 pkt)
+- Słowotwórstwo — rodzina wyrazów (0-1 pkt)
+- Ortografia — uzupełnij luki (0-2 pkt)
+
+Potrzebne dane: tekst nieliteracki, zagadnienia gramatyczne do przećwiczenia
+
+
+SZABLON 4: KRÓTKA FORMA WYPOWIEDZI
+-------------------------------------
+Wejście: kontekst sytuacyjny (np. teatr szkolny, wycieczka, konkurs)
+Wyjście: polecenie + formularz odpowiedzi
+
+Typy:
+- Ogłoszenie — poinformuj + zachęć (2 argumenty)
+- Zaproszenie — zaproś + podaj szczegóły (kto, co, gdzie, kiedy)
+
+Polecenie zawsze zawiera:
+- Sytuację (kto organizuje, co się dzieje)
+- Cel (poinformuj, zachęć, zaproś)
+- Wymagania (2 argumenty, poprawność językowa)
+
+Potrzebne dane: kontekst fabularny, typ formy (ogłoszenie/zaproszenie), powiązanie z lekturą (opcjonalnie)
+
+
+SZABLON 5: DŁUGA FORMA WYPOWIEDZI
+-------------------------------------
+Wejście: temat powiązany z lekturą
+Wyjście: dwa tematy do wyboru + kryteria oceniania
+
+Typy:
+- Rozprawka — rozważ problem, odwołaj się do lektury + innego utworu
+- Opowiadanie — wyobraź sobie sytuację, udowodnij znajomość lektury
+- Przemówienie — przekonaj odbiorców, użyj argumentów
+
+Zawsze zawiera:
+- Temat 1 (rozprawka) + Temat 2 (opowiadanie lub przemówienie)
+- Wymagania: min. 200 wyrazów, odwołanie do lektury
+- Kryteria oceniania (realizacja, twórczość, kompetencje, kompozycja, styl, język, ortografia, interpunkcja)
+
+Potrzebne dane: lektura, zagadnienie tematyczne, klasa docelowa
+
+
+=============================================
+PRZEPŁYW PRACY
+=============================================
+
+KROK 1: Dajesz mi komendę
+   np. "Szablon 1, Dziady cz. II, fragment X"
+
+KROK 2: Ja sprawdzam
+   - Czy mam tekst (plik na dysku lub wklejony)
+   - Który szablon
+   - Jakie parametry (klasa, poziom trudności)
+
+KROK 3: Tworzę kartę pracy
+   - Generuję pytania wg szablonu
+   - Dodaję punktację
+   - Formatuję do druku
+
+KROK 4: Ty weryfikujesz
+   - Sprawdzasz merytorykę
+   - Poprawiasz/dodajesz
+   - Zatwierdzasz
+
+KROK 5: Zapisuję
+   - Plik w Dydaktyka/ (odpowiedni folder)
+   - Gotowy do wydruku
+
+
+=============================================
+PROPOZYCJE ULEPSZEŃ
+=============================================
+
+1. KLUCZ ODPOWIEDZI
+Do każdej karty pracy mogę generować osobny klucz odpowiedzi z poprawną odpowiedzią i kryteriami oceniania. Przyspiesza sprawdzanie, a także pozwala uczniom na samodzielną pracę.
+
+2. ZRÓŻNICOWANIE POZIOMU TRUDNOŚCI
+Każdy szablon w trzech wariantach:
+- A — podstawowy (klasy IV-V)
+- B — średni (klasy VI-VII)
+- C — egzaminacyjny (klasa VIII)
+Ten sam tekst, ale pytania dostosowane do poziomu. Oszczędza czas przy nauczaniu wielu klas.
+
+3. BAZA TEKSTÓW
+Folder Dydaktyka/Lektury/Lekturyfragmentytxt/ to dobry początek. Mogę z niego czerpać gotowe fragmenty. Ale warto rozbudować bazę:
+- Fragmenty kluczowe z każdej lektury (2-3 na lekturę)
+- Teksty nieliterackie (artykuły, felietony) — po 2-3 na zagadnienie
+- Grafiki i plakaty — po 1-2 na lekturę
+
+4. BANK PYTAŃ GRAMATYCZNYCH
+Zamiast wymyślać pytania gramatyczne za każdym razem — zbudować bank pytań pogrupowany tematycznie:
+- Interpunkcja
+- Składnia
+- Słowotwórstwo
+- Odmiana
+- Ortografia
+Potem automatycznie dobieram pytania z banku do szablonu 3.
+
+5. POWIĄZANIE Z PODSTAWĄ PROGRAMOWĄ
+Każde pytanie mogę oznaczyć wymaganiem z podstawy programowej (np. "I.1.1 — uczeń odczytuje tekst na poziomie dosłownym"). Ułatwi dokumentowanie realizacji podstawy.
+
+6. ŚLEDZENIE POSTĘPÓW
+Mogę pamiętać które lektury i które szablony już zrobiłeś. Wtedy wiem:
+- "Balladyna — Szablon 1 gotowy, brakuje Szablonów 2-5"
+- "Dziady cz. II — jeszcze nic nie zrobione"
+- Podpowiadam co dalej
+
+
+=============================================
+PYTANIA DO USTALENIA
+=============================================
+
+1. Czy te 5 szablonów jest kompletne, czy brakuje jakiegoś typu?
+2. Czy podział na poziomy trudności (A/B/C) ma sens w Twojej pracy?
+3. Klucz odpowiedzi — chcesz go zawsze, czy na życzenie?
+4. W jakim formacie chcesz gotowe karty — tekst, plik do wydruku?
+5. Od którego szablonu zaczynamy?
