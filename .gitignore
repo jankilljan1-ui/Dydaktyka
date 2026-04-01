@@ -13,6 +13,9 @@ Kosz/
 # Informator E8 (PDF CKE) - prawa autorskie
 E8_Dokumentacja/Informator_E8/
 
+# Lokalne ustawienia Claude Code
+.claude/settings.local.json
+
 # Pliki systemowe
 .DS_Store
 Thumbs.db
